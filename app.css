@@ -1,0 +1,19 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css";
+
+
+body {
+    
+}
+
+#mainDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#socials {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
